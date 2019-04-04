@@ -1,6 +1,6 @@
 ## Care-homes-quality
 
-This the repository for a shiny dashboard presenting information referred to care homes in England. It is composed of three main tabs and uses data from the [Care Quality Commission](https://www.cqc.org.uk/about-us/transparency/using-cqc-data). 
+This the repository for a [shiny dashboard](https://edugonzaloalmorox.shinyapps.io/care-homes-quality/) presenting information referred to care homes in England. It is composed of three main tabs and uses data from the [Care Quality Commission](https://www.cqc.org.uk/about-us/transparency/using-cqc-data). 
 
 - `Data`: Shows information of current active care homes (as to April 2019) on their quality ratings. It enables to track care all quality inspections undertaken in a care home since 2014. `number_inspection` and `total_inspections_category` provide information concerning the number of inspections taken in a care home.
 
